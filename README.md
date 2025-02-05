@@ -35,7 +35,7 @@ This project is a web application designed as an educational module platform. It
   - Node.js
   - Apollo Server
   - GraphQL
-- **Database**: MongoDB
+- **Database**: GraphDB(Neo4J, Memgraph, etc)
 - **AI Integration**:
   - Hugging Face Transformers
   - Custom Flask API (Python)
