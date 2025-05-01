@@ -141,12 +141,12 @@ The platform uses NextAuth.js for authentication with the following roles:
 ### Authentication
 | Login Page | Registration Page |
 |------------|------------------|
-| ![Login Page](./assets/login.png) | ![Registration Page](./assets/register.png) |
+| ![Login Page](./assets/login_page.png) | ![Registration Page](./assets/register_page.png) |
 
 ### Admin Dashboard
 | Teacher Management | Course Overview |
 |-------------------|----------------|
-| ![Teacher Management](./assets/admin-teachers.png) | ![Course Overview](./assets/admin-courses.png) |
+| ![Teacher Management](./assets/teacher_dashboard.png) | ![Course Overview](./assets/admin-courses.png) |
 
 ### Teacher Portal
 | Course Creation | Content Management |
